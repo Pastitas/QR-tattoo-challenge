@@ -1,3 +1,5 @@
 # Tattoo
-rots and cipher code for my tattoo
+
+Rots and cipher code for my qr tattoo
+
 ![](FinalAztecCifrado.png)
